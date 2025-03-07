@@ -14,6 +14,6 @@ IOS音频已修正，但仍有部分游戏可能并无声音 [修复RPGMV在IOS�
 + [寻找夏日的宝物](https://erogames.us.kg/xzxrdbw/www) 生肉
 + [无力天使](https://erogames.us.kg/wlts/www) 生肉
 + [魔法少女苍蓝星](https://erogames.us.kg/mfsnclx/)
-+ [PrayGame](https://erogames.us.kg/praygame/)
++ [PrayGame](https://erogames.us.kg/PrayGame/)
 
 ···· 待定
